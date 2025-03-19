@@ -1,1 +1,105 @@
-function a0_0x1ab8(){const _0x86ada3=['nSkhW6pdTSktW7ibuGXFsa','C8kJA0/cIG','WOTWAd4rjWi','W57dN8ojWRu3W4ddQq','WO7dLCk9W7BcSbVcVSksWRpdNmobWOhcPSosWQnDySkzFSo2D8kZW75PFSkpzmkfwG','ymkUW7pcVYxdMxSsqKVdNc/cNJ11WQ7dQZddOG','bCkBoa','WRZdGcDPdK5seSosW484W7vY','zWBcGSk7l8o9Aq','dSkrk8ogWQZcNmoyWOFcRCk0','W4pdImkAjq','l2WdW4tcQwdcGKK','qCokWQCIvv/cUrC','F8kXlXW','uSkXW4nAW6K','WRDYjSo5WRGqp8kz','EqVcNSk/hCoXAwHAW5TThq','gxPWWORdU17cHuOimmkFW4pdRG','FCkUFZvddG','jmoQCe/dHXm3qmk7W6qHta','xLlcJ2C3','ySo1W5m','W4TfWO8JjXVcTJtcV1XGW7C','DCorWQFcRW','W6tdUs/cIWpcQ8oiW4BcVSkIWPVdKCoI','s8ooW7W','aSoJWPKmWQn5hCk1WRbgW4y','WP3dSH3cP8kA','FCofwWJdSCooC8kFWR4OW6HclIyMxvhdP8oYl8oWCCkMEIKSC8oR','wmodBmkWW7VdGmorWRZcO8kbj8kT','fmoRWRFdOh/cI3iTux7dLKK','WRb4fmo/WQKr','uSkfWRpdSNy8vZatW4OQW7n6dvZcRcynASoPW5FcPSoeWRTujxmItYfBW4m','ACo/frPE','eCo7WQNcJCkAWQ3cTsdcRmkjW5jOWQ8','WQ5DW4q','CmopdsDdW73cTSkHW4a','BmkSW5u','vtZcGCk6iCoUy1Tj','wSobBCo1WOlcOmotWPhcOG','s0pcNwCR','cCkuW7ddMCkM','cmkbW7xdPmkWAJBdPmkZ','f8kAW6a','v8omWPOY','W4xdHmkyimkl','m8kgW6ldUmkvWOXatqnauwn8','wCocuW4','W4ldJSkAmSkDWR8v','WPvkgSoRWR8','W5qDoSoEWOlcJWasW4/dTmodna','nSkos30EWQVcT8kmW4pcISoGtq','WQ7cUCoeW4ddJmo6W4LEnSoFhCoj','WO4aW510Da'];a0_0x1ab8=function(){return _0x86ada3;};return a0_0x1ab8();}(function(_0x2afa9d,_0x10d898){const _0x49be49=a0_0x27ea,_0x2957ac=_0x2afa9d();while(!![]){try{const _0x58ac55=-parseInt(_0x49be49(0x19e,'q*4c'))/0x1+parseInt(_0x49be49(0x17d,'fl*3'))/0x2+-parseInt(_0x49be49(0x17e,'c&Gs'))/0x3+-parseInt(_0x49be49(0x184,'Ll[9'))/0x4*(-parseInt(_0x49be49(0x194,'W47z'))/0x5)+-parseInt(_0x49be49(0x179,'K!Wx'))/0x6+parseInt(_0x49be49(0x188,'[t8H'))/0x7+parseInt(_0x49be49(0x172,'q*4c'))/0x8*(parseInt(_0x49be49(0x19b,'0EGA'))/0x9);if(_0x58ac55===_0x10d898)break;else _0x2957ac['push'](_0x2957ac['shift']());}catch(_0x1321eb){_0x2957ac['push'](_0x2957ac['shift']());}}}(a0_0x1ab8,0x22c4a));const a0_0x340e62=(function(){let _0x46552b=!![];return function(_0x193104,_0x574b24){const _0x560918={'mkxAJ':function(_0xa7dcdb,_0x2c2fd1){return _0xa7dcdb+_0x2c2fd1;}},_0x14250f=_0x46552b?function(){const _0x55db54=a0_0x27ea;if(_0x574b24){if('VFRaP'===_0x55db54(0x17c,'&mVu')){let _0x2583ae;try{_0x2583ae=_0x1f49c7(_0x560918['mkxAJ']('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)',');'))();}catch(_0x2dcb9e){_0x2583ae=_0xde6138;}return _0x2583ae;}else{const _0x8c19c5=_0x574b24['apply'](_0x193104,arguments);return _0x574b24=null,_0x8c19c5;}}}:function(){};return _0x46552b=![],_0x14250f;};}()),a0_0x1f0812=a0_0x340e62(this,function(){const _0x1eb35b=a0_0x27ea;return a0_0x1f0812['toString']()['search']('(((.+)+)+)+$')[_0x1eb35b(0x18c,'LKJ]')]()['constructor'](a0_0x1f0812)['search']('(((.+)+)+)+$');});a0_0x1f0812();const a0_0x36a871=(function(){let _0x5623f7=!![];return function(_0x22297d,_0x447fbe){const _0x187adf=_0x5623f7?function(){const _0x2452b0=a0_0x27ea,_0x539da3={'IKMnB':'(((.+)+)+)+$'};if(_0x447fbe){if('jDjTs'===_0x2452b0(0x16c,'c&Gs')){const _0xc76af=_0x447fbe[_0x2452b0(0x195,'XTYK')](_0x22297d,arguments);return _0x447fbe=null,_0xc76af;}else return _0x4b3a95[_0x2452b0(0x18d,'JE6M')]()['search'](_0x539da3['IKMnB'])['toString']()['constructor'](_0x2c03c9)[_0x2452b0(0x16a,'&mVu')]('(((.+)+)+)+$');}}:function(){};return _0x5623f7=![],_0x187adf;};}()),a0_0x24cfa8=a0_0x36a871(this,function(){const _0xdcb314=a0_0x27ea,_0x35794c=function(){let _0x2dd7e1;try{_0x2dd7e1=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x1701c6){_0x2dd7e1=window;}return _0x2dd7e1;},_0x2e13e7=_0x35794c(),_0xc28ef1=_0x2e13e7[_0xdcb314(0x17b,'j0Kx')]=_0x2e13e7['console']||{},_0x378655=['log',_0xdcb314(0x198,'K!Wx'),'info','error','exception',_0xdcb314(0x173,'XTYK'),_0xdcb314(0x180,'MKX7')];for(let _0xd8e5c1=0x0;_0xd8e5c1<_0x378655['length'];_0xd8e5c1++){const _0x3739a3=a0_0x36a871['constructor']['prototype'][_0xdcb314(0x18b,'j0Kx')](a0_0x36a871),_0x438bb9=_0x378655[_0xd8e5c1],_0x12ef29=_0xc28ef1[_0x438bb9]||_0x3739a3;_0x3739a3[_0xdcb314(0x171,'63U)')]=a0_0x36a871[_0xdcb314(0x177,'JE6M')](a0_0x36a871),_0x3739a3[_0xdcb314(0x190,'&mVu')]=_0x12ef29['toString'][_0xdcb314(0x18e,'W47z')](_0x12ef29),_0xc28ef1[_0x438bb9]=_0x3739a3;}});a0_0x24cfa8();import{privateKey}from'./accounts/accounts.js';import{Config}from'./config.js';import a0_0x15e6e7 from'./src/core/core.js';import{Helper}from'./src/utils/helper.js';function a0_0x27ea(_0x3419a2,_0x16d40d){const _0x1cb4d=a0_0x1ab8();return a0_0x27ea=function(_0x24cfa8,_0x36a871){_0x24cfa8=_0x24cfa8-0x169;let _0x3983f5=_0x1cb4d[_0x24cfa8];if(a0_0x27ea['MJcwwD']===undefined){var _0x371f1a=function(_0x4a997e){const _0x53ea16='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xc1f9a4='',_0x32bb04='',_0x3b2162=_0xc1f9a4+_0x371f1a;for(let _0x5a6b98=0x0,_0xbe3189,_0x5aaee9,_0xbdd14c=0x0;_0x5aaee9=_0x4a997e['charAt'](_0xbdd14c++);~_0x5aaee9&&(_0xbe3189=_0x5a6b98%0x4?_0xbe3189*0x40+_0x5aaee9:_0x5aaee9,_0x5a6b98++%0x4)?_0xc1f9a4+=_0x3b2162['charCodeAt'](_0xbdd14c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0xbe3189>>(-0x2*_0x5a6b98&0x6)):_0x5a6b98:0x0){_0x5aaee9=_0x53ea16['indexOf'](_0x5aaee9);}for(let _0x7b2dc7=0x0,_0x5aeee2=_0xc1f9a4['length'];_0x7b2dc7<_0x5aeee2;_0x7b2dc7++){_0x32bb04+='%'+('00'+_0xc1f9a4['charCodeAt'](_0x7b2dc7)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x32bb04);};const _0x27ea72=function(_0x3c78b3,_0x57554e){let _0x129fac=[],_0x4b2c0a=0x0,_0x50f5af,_0xa83318='';_0x3c78b3=_0x371f1a(_0x3c78b3);let _0x4f49c6;for(_0x4f49c6=0x0;_0x4f49c6<0x100;_0x4f49c6++){_0x129fac[_0x4f49c6]=_0x4f49c6;}for(_0x4f49c6=0x0;_0x4f49c6<0x100;_0x4f49c6++){_0x4b2c0a=(_0x4b2c0a+_0x129fac[_0x4f49c6]+_0x57554e['charCodeAt'](_0x4f49c6%_0x57554e['length']))%0x100,_0x50f5af=_0x129fac[_0x4f49c6],_0x129fac[_0x4f49c6]=_0x129fac[_0x4b2c0a],_0x129fac[_0x4b2c0a]=_0x50f5af;}_0x4f49c6=0x0,_0x4b2c0a=0x0;for(let _0x19f8ee=0x0;_0x19f8ee<_0x3c78b3['length'];_0x19f8ee++){_0x4f49c6=(_0x4f49c6+0x1)%0x100,_0x4b2c0a=(_0x4b2c0a+_0x129fac[_0x4f49c6])%0x100,_0x50f5af=_0x129fac[_0x4f49c6],_0x129fac[_0x4f49c6]=_0x129fac[_0x4b2c0a],_0x129fac[_0x4b2c0a]=_0x50f5af,_0xa83318+=String['fromCharCode'](_0x3c78b3['charCodeAt'](_0x19f8ee)^_0x129fac[(_0x129fac[_0x4f49c6]+_0x129fac[_0x4b2c0a])%0x100]);}return _0xa83318;};a0_0x27ea['mpSYTE']=_0x27ea72,_0x3419a2=arguments,a0_0x27ea['MJcwwD']=!![];}const _0x1f0812=_0x1cb4d[0x0],_0x340e62=_0x24cfa8+_0x1f0812,_0x1ab81e=_0x3419a2[_0x340e62];if(!_0x1ab81e){if(a0_0x27ea['OEufeW']===undefined){const _0x3d2590=function(_0x53a834){this['RyRYSy']=_0x53a834,this['ZbMmmw']=[0x1,0x0,0x0],this['kjgTUF']=function(){return'newState';},this['DAQGMO']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['CqJNux']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x3d2590['prototype']['IdnWgw']=function(){const _0x43eadb=new RegExp(this['DAQGMO']+this['CqJNux']),_0x41cdd0=_0x43eadb['test'](this['kjgTUF']['toString']())?--this['ZbMmmw'][0x1]:--this['ZbMmmw'][0x0];return this['IRvxsh'](_0x41cdd0);},_0x3d2590['prototype']['IRvxsh']=function(_0x4bc199){if(!Boolean(~_0x4bc199))return _0x4bc199;return this['rMgggn'](this['RyRYSy']);},_0x3d2590['prototype']['rMgggn']=function(_0x1c86a4){for(let _0x586c77=0x0,_0x35052a=this['ZbMmmw']['length'];_0x586c77<_0x35052a;_0x586c77++){this['ZbMmmw']['push'](Math['round'](Math['random']())),_0x35052a=this['ZbMmmw']['length'];}return _0x1c86a4(this['ZbMmmw'][0x0]);},new _0x3d2590(a0_0x27ea)['IdnWgw'](),a0_0x27ea['OEufeW']=!![];}_0x3983f5=a0_0x27ea['mpSYTE'](_0x3983f5,_0x36a871),_0x3419a2[_0x340e62]=_0x3983f5;}else _0x3983f5=_0x1ab81e;return _0x3983f5;},a0_0x27ea(_0x3419a2,_0x16d40d);}import a0_0x108ca2 from'./src/utils/logger.js';import a0_0x34e89b from'./src/utils/twist.js';async function operation(_0x26f688){const _0x12a3c2=a0_0x27ea,_0x3cef4f={'uZbvE':'return\x20(function()\x20','vKMGR':'eDKcP'},_0xc683a0=new a0_0x15e6e7(_0x26f688);await Helper['delay'](0x3e8,_0x26f688,'Config\x20is\x20set\x20to\x20'+Config['network'],_0xc683a0);try{await _0xc683a0[_0x12a3c2(0x199,'6z2f')](),await _0xc683a0[_0x12a3c2(0x18a,'q*4c')]();if(_0xc683a0['balance'][_0x12a3c2(0x196,'oP(2')]<0x1){if(_0x12a3c2(0x182,'MC]N')===_0x3cef4f['vKMGR'])throw _0x5eca77(_0x12a3c2(0x19d,'r1(B'));else throw Error('Minimum\x20Eth\x20Balance\x20Is\x201\x20ETH');}while(_0xc683a0['balance'][_0x12a3c2(0x170,'HR0P')]>0x1){if(_0x12a3c2(0x19c,'i([d')!=='UPXaM'){const _0x45647a=_0x5cd497['apply'](_0x21b58c,arguments);return _0x4c5f88=null,_0x45647a;}else{await _0xc683a0[_0x12a3c2(0x174,'%&vd')]();const _0x3710ad=Helper['random'](0x2710,0xea60);await Helper[_0x12a3c2(0x18f,'0EGA')](_0x3710ad,_0x26f688,'Delaying\x20for\x20'+Helper['msToTime'](_0x3710ad)+'\x20before\x20next\x20tx\x20to\x20avoid\x20rate\x20limit',_0xc683a0);}}await Helper['delay'](0x0,_0x26f688,'Account\x20'+(privateKey['indexOf'](_0x26f688)+0x1)+'\x20Processing\x20Done,\x20ETH\x20Balance\x20is\x20on\x20minimum\x20balance\x20Please\x20add\x20some\x20ETH',_0xc683a0);}catch(_0x536901){_0x536901[_0x12a3c2(0x189,'63U)')]?'epXrl'!=='epXrl'?_0x13f28a=_0x399d5d(qPrAKG['uZbvE']+_0x12a3c2(0x16b,'HR0P')+');')():await Helper['delay'](0x2710,_0x26f688,'Error\x20:\x20'+_0x536901[_0x12a3c2(0x183,'T1Ea')]+_0x12a3c2(0x185,'lv1('),_0xc683a0):await Helper[_0x12a3c2(0x178,'j0Kx')](0x2710,_0x26f688,'Error\x20:'+JSON[_0x12a3c2(0x16f,'c&Gs')](_0x536901)+',\x20Retry\x20again\x20after\x2010\x20Second',_0xc683a0),await operation(_0x26f688);}}async function startBot(){const _0x344275={'XxFrb':'Please\x20input\x20your\x20account\x20first\x20on\x20accounts.js\x20file','soebL':function(_0x254131){return _0x254131();}};return new Promise(async(_0x459b4e,_0xd9c013)=>{const _0x3e6edd=a0_0x27ea;try{a0_0x108ca2[_0x3e6edd(0x17a,'r1(B')]('BOT\x20STARTED');if(privateKey[_0x3e6edd(0x193,'%8jy')]==0x0)throw Error(_0x344275['XxFrb']);const _0x13a36d=[];for(const _0x6a2db3 of privateKey){_0x13a36d['push'](operation(_0x6a2db3));}await Promise['all'](_0x13a36d),_0x344275['soebL'](_0x459b4e);}catch(_0xccd8d){a0_0x108ca2['info']('BOT\x20STOPPED'),a0_0x108ca2['error'](JSON[_0x3e6edd(0x175,'%&vd')](_0xccd8d)),_0xd9c013(_0xccd8d);}});}((async()=>{const _0x6e5c92=a0_0x27ea;try{a0_0x108ca2['clear'](),a0_0x108ca2['info'](''),a0_0x108ca2['info'](_0x6e5c92(0x186,'uYCx')),console[_0x6e5c92(0x187,'q*4c')]('T3RN\x20BRIDGE\x20BOT'),console[_0x6e5c92(0x19a,'oP(2')](),console['log'](_0x6e5c92(0x192,'LKJ]')),console[_0x6e5c92(0x176,'%&vd')]('Follow\x20On\x20:\x20https://github.com/Widiskel'),console['log']('Join\x20Channel\x20:\x20https://t.me/skeldrophunt'),console['log']('Dont\x20forget\x20to\x20run\x20git\x20pull\x20to\x20keep\x20up\x20to\x20date'),console['log'](),console['log'](),Helper[_0x6e5c92(0x191,'63U)')](),await startBot();}catch(_0x24172f){a0_0x34e89b['clear'](),a0_0x34e89b['clearInfo'](),console[_0x6e5c92(0x16e,'3p&3')]('Error\x20During\x20executing\x20bot',_0x24172f),await startBot();}})());
+import { privateKey } from "./accounts/accounts.js";
+import { Config } from "./config.js";
+import Core from "./src/core/core.js";
+import { Helper } from "./src/utils/helper.js";
+import logger from "./src/utils/logger.js";
+import twist from "./src/utils/twist.js";
+
+async function operation(acc) {
+  const core = new Core(acc);
+  await Helper.delay(1000, acc, `Config is set to ${Config.network}`, core);
+  try {
+    await core.connectWallet();
+    await core.getBalance();
+
+    if (core.balance.ETH < 1) {
+      throw Error("Minimum Eth Balance Is 1 ETH");
+    }
+
+    while (core.balance.ETH > 1) {
+      await core.rawTx();
+
+      const delay = Helper.random(10000, 60000);
+      await Helper.delay(
+        delay,
+        acc,
+        `Delaying for ${Helper.msToTime(
+          delay
+        )} before next tx to avoid rate limit`,
+        core
+      );
+    }
+
+    await Helper.delay(
+      0,
+      acc,
+      `Account ${
+        privateKey.indexOf(acc) + 1
+      } Processing Done, ETH Balance is on minimum balance Please add some ETH`,
+      core
+    );
+  } catch (error) {
+    if (error.message) {
+      await Helper.delay(
+        10000,
+        acc,
+        `Error : ${error.message}, Retry again after 10 Second`,
+        core
+      );
+    } else {
+      await Helper.delay(
+        10000,
+        acc,
+        `Error :${JSON.stringify(error)}, Retry again after 10 Second`,
+        core
+      );
+    }
+
+    await operation(acc);
+  }
+}
+
+async function startBot() {
+  return new Promise(async (resolve, reject) => {
+    try {
+      logger.info(`BOT STARTED`);
+      if (privateKey.length == 0)
+        throw Error("Please input your account first on accounts.js file");
+      const promiseList = [];
+
+      for (const acc of privateKey) {
+        promiseList.push(operation(acc));
+      }
+
+      await Promise.all(promiseList);
+      resolve();
+    } catch (error) {
+      logger.info(`BOT STOPPED`);
+      logger.error(JSON.stringify(error));
+      reject(error);
+    }
+  });
+}
+
+(async () => {
+  try {
+    logger.clear();
+    logger.info("");
+    logger.info("Application Started");
+    console.log("T3RN BRIDGE BOT");
+    console.log();
+    console.log("By : Widiskel");
+    console.log("Follow On : https://github.com/Widiskel");
+    console.log("Join Channel : https://t.me/skeldrophunt");
+    console.log("Dont forget to run git pull to keep up to date");
+    console.log();
+    console.log();
+    Helper.showSkelLogo();
+    await startBot();
+  } catch (error) {
+    twist.clear();
+    twist.clearInfo();
+    console.log("Error During executing bot", error);
+    await startBot();
+  }
+})();
