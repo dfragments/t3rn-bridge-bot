@@ -1,7 +1,7 @@
 import { Config } from "../../../config.js";
 
 export class RPC {
-  static CHAINID = Config.network == "ARB" ? 421614 : 11155420;
+  static CHAINID = Config.network == "ARB" ? 84532 : 11155420;
   static RPCURL = Config.network == "ARB" ? Config.ARBRPCURL : Config.OPRPCURL;
   static EXPLORER =
     Config.network == "ARB"
