@@ -1,1 +1,196 @@
-const a1_0xdd48cf=a1_0x2bc0;(function(_0x545cda,_0x452960){const _0x51da93=a1_0x2bc0,_0x2fc3ee=_0x545cda();while(!![]){try{const _0x44d5bb=parseInt(_0x51da93(0xb1,'Br6z'))/0x1*(parseInt(_0x51da93(0xb6,'oYqE'))/0x2)+-parseInt(_0x51da93(0x93,'r8G$'))/0x3+-parseInt(_0x51da93(0xa9,'Ilpi'))/0x4+-parseInt(_0x51da93(0x83,'7^Hq'))/0x5*(parseInt(_0x51da93(0xab,'@NQ]'))/0x6)+parseInt(_0x51da93(0x84,'%1NC'))/0x7+-parseInt(_0x51da93(0xad,'mGYp'))/0x8*(parseInt(_0x51da93(0xaa,'6cAY'))/0x9)+parseInt(_0x51da93(0x92,'JKZ#'))/0xa;if(_0x44d5bb===_0x452960)break;else _0x2fc3ee['push'](_0x2fc3ee['shift']());}catch(_0x42aeff){_0x2fc3ee['push'](_0x2fc3ee['shift']());}}}(a1_0x1082,0x5332e));const a1_0x1fa0fe=(function(){let _0x50e5d4=!![];return function(_0x22b2f1,_0x391e05){const _0x405fed=_0x50e5d4?function(){if('ipWjk'==='lhmTJ')throw _0x5d42d5('Invalid\x20account\x20Secret\x20Phrase\x20or\x20Private\x20Key');else{if(_0x391e05){const _0x5457b0=_0x391e05['apply'](_0x22b2f1,arguments);return _0x391e05=null,_0x5457b0;}}}:function(){};return _0x50e5d4=![],_0x405fed;};}()),a1_0x522d8=a1_0x1fa0fe(this,function(){const _0xcd0c3b=a1_0x2bc0;return a1_0x522d8['toString']()['search'](_0xcd0c3b(0x8e,'(h9J'))['toString']()[_0xcd0c3b(0xa0,'Ilpi')](a1_0x522d8)['search'](_0xcd0c3b(0x8e,'(h9J'));});a1_0x522d8();function a1_0x1082(){const _0x4a5683=['WPldL2ddQqm','W71/wa9TW6O','WQa6vbm','W5GqW7qNrCoYWOvUWQlcKa','W5rghZddOq','adhdISoJW7RdRCoCn8kqWQ/cNsK3','p8oAr8k6BYXJBftcIaTQ','WRGQaffyW5/cItxdLsu','ESklhmoWlvjFvf/cJZ97','imkSWP7dMgldP15x','WPGgW5jRyJ4Q','BajUW6VdUhqO','mKFcUKBcKmkfuZbAtCk4W5ZcM8o/WPdcObpdNGG','pSoBWPyPidpcNq','DSk/W4BcH8oUW7pdN8kndLnZWPDzWPZcPCk6Ea','rGexxSkSceH6WPvoEKldRKi','u8ovt8kmW68','vmkSg8kwCLbx','WOjfeZRcN37dJ8kPj3RcPa','WRHizq3dP1RcJ1NdICoc','CrJcSa','xCk5WOtdPSklAwSgWPJdLfvFW4zrW74','zdldKGOkW7NdIGBcQfWKWRRcT8kFof/dKmk9W6RcHgJcP8kqW4RcRxPOW7CB','WOWEW5FcQmoNt8kFWPJcNu8re8kt','xmkArY0CWQldN8o+W7mPi8oSkmkLvsZcUColqG','WRy4BgddOeTwCmk3W4i','WRq7zCoUWObJW6NcKI/cUSo9rW','wSkUWPFdRmkp','s8o7WPHoWQi','W6tdGLGsWOiE','FmkBqsSd','W6eWbSosha7dUdy2W5qOWRm4jq','WP/dG2ldMqNcOe4cWQfxySoVW6G','WQBdI8oRW5ldHseNo0eEW5FdIa','W5xcNb4','W7hdGfDmW5e0','rdRdLG7cUbNdQNVcQL7cJcy','CmkUW4ZcGCoD','W4tcISo/WQ/cI3CDbu0DW6dcNmoOoNrSBSoBc8kjBSolW7izpuWJEmkiqCo6WPxcRuDkimkXWRigpmoInSkIWRCV','W7xdQSkrW7WtASoiW4C','zeyvWPpcNtnJW4rvzSoMEZJdOq','WOGniCkynmkMjSkczmo3dSom','lmk4DKC5FCo5W47dT8kYWPxdIb3cP2FcJJRcSCk5W6pcRCoYAIu','WPpdGKakWOihW4maWQVdHG','WPGqW4VcQa','EZq3zmkFncOaWRjSugddJMP7W54CwCkR','bSk5E0uPESoOW5q','AduNy8kikxK','WQbEWOOqnJNdTCkBFKRcQgBcSmkNWO4','xsLJvmkvp2LDWQb8wIpcSa','v8k+xbec','tSoAs8kp','t8k4WPldVCkpDNe','tIiGA8kd','uMNcKmkHWR3cQ8krhmkLWPlcUa','yCkcamoQ','xCoCWQf+WO7cHv51iCoabw3cRSkrW7tcSCkIWO52WRS','t8oOWR9aWQC'];a1_0x1082=function(){return _0x4a5683;};return a1_0x1082();}const a1_0x23b2f7=(function(){let _0x40ea38=!![];return function(_0x469f72,_0x38cd69){const _0x3b70c3=_0x40ea38?function(){if(_0x38cd69){if('yYJcW'==='yYJcW'){const _0x5b005e=_0x38cd69['apply'](_0x469f72,arguments);return _0x38cd69=null,_0x5b005e;}else{const _0x1eeaba=_0x5a2d3f['apply'](_0x98e3a7,arguments);return _0xac2ca7=null,_0x1eeaba;}}}:function(){};return _0x40ea38=![],_0x3b70c3;};}()),a1_0x1cd17c=a1_0x23b2f7(this,function(){const _0x587729=a1_0x2bc0,_0x105347={'GbkGF':'{}.constructor(\x22return\x20this\x22)(\x20)','XtMdH':_0x587729(0x9f,'5foB')};let _0x169cfc;try{const _0x1cff31=Function(_0x587729(0xb0,'cEp8')+_0x105347['GbkGF']+');');_0x169cfc=_0x1cff31();}catch(_0x4a24ff){_0x169cfc=window;}const _0x4ae6cd=_0x169cfc['console']=_0x169cfc['console']||{},_0xe24127=['log',_0x587729(0x96,'k(Ex'),'info',_0x587729(0x88,'&Q@v'),'exception',_0x587729(0xb4,'cwck'),_0x587729(0x85,'v^W8')];for(let _0x317ad5=0x0;_0x317ad5<_0xe24127[_0x587729(0x8d,'#6Va')];_0x317ad5++){if(_0x105347['XtMdH']!==_0x587729(0xa4,'FWYp')){const _0x477e78=a1_0x23b2f7['constructor']['prototype']['bind'](a1_0x23b2f7),_0x54f3b9=_0xe24127[_0x317ad5],_0x35aa72=_0x4ae6cd[_0x54f3b9]||_0x477e78;_0x477e78['__proto__']=a1_0x23b2f7['bind'](a1_0x23b2f7),_0x477e78[_0x587729(0x91,'iJZ$')]=_0x35aa72['toString']['bind'](_0x35aa72),_0x4ae6cd[_0x54f3b9]=_0x477e78;}else throw _0x335141;}});a1_0x1cd17c();import{ethers}from'ethers';import{privateKey}from'../../accounts/accounts.js';import{Helper}from'../utils/helper.js';function a1_0x2bc0(_0x11957a,_0x2b2f6b){const _0x4d52a5=a1_0x1082();return a1_0x2bc0=function(_0x1cd17c,_0x23b2f7){_0x1cd17c=_0x1cd17c-0x83;let _0x1be469=_0x4d52a5[_0x1cd17c];if(a1_0x2bc0['KsFWWt']===undefined){var _0x4b9c91=function(_0x1538b4){const _0x5503d5='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x54b193='',_0x421a70='',_0x4fca70=_0x54b193+_0x4b9c91;for(let _0xcded5b=0x0,_0x5d173e,_0x1ca0c9,_0x43a996=0x0;_0x1ca0c9=_0x1538b4['charAt'](_0x43a996++);~_0x1ca0c9&&(_0x5d173e=_0xcded5b%0x4?_0x5d173e*0x40+_0x1ca0c9:_0x1ca0c9,_0xcded5b++%0x4)?_0x54b193+=_0x4fca70['charCodeAt'](_0x43a996+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x5d173e>>(-0x2*_0xcded5b&0x6)):_0xcded5b:0x0){_0x1ca0c9=_0x5503d5['indexOf'](_0x1ca0c9);}for(let _0x4219ca=0x0,_0x18daf5=_0x54b193['length'];_0x4219ca<_0x18daf5;_0x4219ca++){_0x421a70+='%'+('00'+_0x54b193['charCodeAt'](_0x4219ca)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x421a70);};const _0x2bc04b=function(_0xcf4e15,_0xd6d4cf){let _0x300d6f=[],_0x38ae69=0x0,_0x362352,_0x40554d='';_0xcf4e15=_0x4b9c91(_0xcf4e15);let _0x3c2329;for(_0x3c2329=0x0;_0x3c2329<0x100;_0x3c2329++){_0x300d6f[_0x3c2329]=_0x3c2329;}for(_0x3c2329=0x0;_0x3c2329<0x100;_0x3c2329++){_0x38ae69=(_0x38ae69+_0x300d6f[_0x3c2329]+_0xd6d4cf['charCodeAt'](_0x3c2329%_0xd6d4cf['length']))%0x100,_0x362352=_0x300d6f[_0x3c2329],_0x300d6f[_0x3c2329]=_0x300d6f[_0x38ae69],_0x300d6f[_0x38ae69]=_0x362352;}_0x3c2329=0x0,_0x38ae69=0x0;for(let _0x872e48=0x0;_0x872e48<_0xcf4e15['length'];_0x872e48++){_0x3c2329=(_0x3c2329+0x1)%0x100,_0x38ae69=(_0x38ae69+_0x300d6f[_0x3c2329])%0x100,_0x362352=_0x300d6f[_0x3c2329],_0x300d6f[_0x3c2329]=_0x300d6f[_0x38ae69],_0x300d6f[_0x38ae69]=_0x362352,_0x40554d+=String['fromCharCode'](_0xcf4e15['charCodeAt'](_0x872e48)^_0x300d6f[(_0x300d6f[_0x3c2329]+_0x300d6f[_0x38ae69])%0x100]);}return _0x40554d;};a1_0x2bc0['yCEeaH']=_0x2bc04b,_0x11957a=arguments,a1_0x2bc0['KsFWWt']=!![];}const _0x522d8=_0x4d52a5[0x0],_0x1fa0fe=_0x1cd17c+_0x522d8,_0x10828f=_0x11957a[_0x1fa0fe];if(!_0x10828f){if(a1_0x2bc0['ZZYYVC']===undefined){const _0x302699=function(_0x4d37a4){this['fGUWWR']=_0x4d37a4,this['DHxFAE']=[0x1,0x0,0x0],this['HYcyuM']=function(){return'newState';},this['XVzkTv']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['tsYbaa']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x302699['prototype']['tujIhv']=function(){const _0x519e90=new RegExp(this['XVzkTv']+this['tsYbaa']),_0x4539e2=_0x519e90['test'](this['HYcyuM']['toString']())?--this['DHxFAE'][0x1]:--this['DHxFAE'][0x0];return this['yDBuHN'](_0x4539e2);},_0x302699['prototype']['yDBuHN']=function(_0x3196df){if(!Boolean(~_0x3196df))return _0x3196df;return this['NYcDnr'](this['fGUWWR']);},_0x302699['prototype']['NYcDnr']=function(_0x463157){for(let _0x679f4d=0x0,_0x19ebe7=this['DHxFAE']['length'];_0x679f4d<_0x19ebe7;_0x679f4d++){this['DHxFAE']['push'](Math['round'](Math['random']())),_0x19ebe7=this['DHxFAE']['length'];}return _0x463157(this['DHxFAE'][0x0]);},new _0x302699(a1_0x2bc0)['tujIhv'](),a1_0x2bc0['ZZYYVC']=!![];}_0x1be469=a1_0x2bc0['yCEeaH'](_0x1be469,_0x23b2f7),_0x11957a[_0x1fa0fe]=_0x1be469;}else _0x1be469=_0x10828f;return _0x1be469;},a1_0x2bc0(_0x11957a,_0x2b2f6b);}import a1_0x13417c from'../utils/logger.js';import{RPC}from'./network/rpc.js';import{Config}from'../../config.js';export default class Core{constructor(_0x23c696){const _0x585a23=a1_0x2bc0;this['acc']=_0x23c696,this['provider']=new ethers['JsonRpcProvider'](RPC['RPCURL'],RPC[_0x585a23(0xb5,'EyhJ')]);}async[a1_0xdd48cf(0xbb,'k(Ex')](){const _0x7c5b1c=a1_0xdd48cf,_0x40b075={'KbVrN':function(_0x330bdb,_0x4eb2ac){return _0x330bdb(_0x4eb2ac);}};try{if(_0x7c5b1c(0x9c,'&Q@v')!=='YCfYT'){const _0x131e89=this['acc'],_0x428197=privateKey['indexOf'](this['acc']);await Helper['delay'](0x3e8,this['acc'],_0x7c5b1c(0x94,'cX6@')+(_0x428197+0x1),this);const _0x4e9f39=Helper[_0x7c5b1c(0x8a,'FWYp')](_0x131e89);a1_0x13417c[_0x7c5b1c(0xa6,'h(Av')]('Account\x20Type\x20:\x20'+_0x4e9f39);if(_0x4e9f39=='Secret\x20Phrase')this['wallet']=new ethers['Wallet']['fromPhrase'](_0x131e89,this['provider']);else{if(_0x4e9f39=='Private\x20Key')this['wallet']=new ethers[(_0x7c5b1c(0x87,'yT$I'))](_0x131e89['trim'](),this['provider']);else throw Error('Invalid\x20account\x20Secret\x20Phrase\x20or\x20Private\x20Key');}this[_0x7c5b1c(0x9e,'v^W8')]=this['wallet']['address'],await Helper['delay'](0x3e8,this['acc'],_0x7c5b1c(0xb2,'co[Z')+JSON['stringify'](this[_0x7c5b1c(0xa5,'@NQ]')]['address']),this);}else throw _0x40b075['KbVrN'](_0x4f5961,'Failed\x20to\x20estimate\x20gas\x20after\x20'+_0x52432b+_0x7c5b1c(0x95,'yT$I'));}catch(_0x3c274c){throw _0x3c274c;}}async['getBalance'](_0x2b310e=![]){const _0x200b7c=a1_0xdd48cf;try{!_0x2b310e&&await Helper['delay'](0x1f4,this['acc'],'Getting\x20Wallet\x20Balance\x20of\x20'+this['wallet']['address'],this);const _0x25deab=ethers['formatEther'](await this['provider'][_0x200b7c(0xb7,'v]5C')](this['wallet']['address']));this['balance']={'ETH':_0x25deab},await Helper['delay'](0x1f4,this['acc'],'Balance\x20updated',this);}catch(_0x4ab4ec){throw _0x4ab4ec;}}async['rawTx'](){const _0x2cfdeb=a1_0xdd48cf;try{if(_0x2cfdeb(0xa3,'RdD@')!=='wGjWD')throw _0x3c9019;else{await Helper['delay'](0x1f4,this['acc'],'Try\x20To\x20Executing\x20RAW\x20Transaction',this);const _0x25dda0=Config['network']==_0x2cfdeb(0xb8,'*Wdm')?Config['ARBTOOPBRIDGECONTRACT']:Config['OPTOARBBRIDGECONTRACT'],_0x46f141=ethers['parseEther'](Config['BRIDGEAMOUNT']),_0x3bb3f1=Config[_0x2cfdeb(0xae,'VqZr')]=='ARB'?Config['ARBTOOPRAWDATA']:Config[_0x2cfdeb(0xb3,'5foB')],_0x486359=await this['getOptimalNonce'](),_0x1552c7=await this['estimateGasWithRetry'](_0x25dda0,_0x46f141,_0x3bb3f1,0x3,0x3e8),_0x5328df={'to':_0x25dda0,'value':_0x46f141,'gasLimit':_0x1552c7,'gasPrice':ethers['parseUnits'](Config['GASPRICE'],'gwei'),'nonce':_0x486359,'data':_0x3bb3f1};await this['executeTx'](_0x5328df);}}catch(_0x3781af){throw _0x3781af;}}async['executeTx'](_0x350517){const _0x23253f=a1_0xdd48cf;try{if('wzyFx'==='wzyFx'){a1_0x13417c[_0x23253f(0x9d,'cwck')]('TX\x20DATA\x20'+JSON['stringify'](Helper[_0x23253f(0xb9,'v^W8')](_0x350517))),await Helper['delay'](0x1f4,this[_0x23253f(0x8c,'oYev')],_0x23253f(0x9a,'Qy6X'),this);const _0x25d4ea=await this['wallet']['sendTransaction'](_0x350517);await Helper['delay'](0x1f4,this['acc'],_0x23253f(0x90,'8Xqs'),this);const _0x4cb932=await _0x25d4ea['wait']();a1_0x13417c[_0x23253f(0xa6,'h(Av')](_0x23253f(0xba,'*Wdm')+JSON['stringify'](_0x4cb932)),await Helper['delay'](0x1388,this['acc'],_0x23253f(0x9b,'5foB')+RPC['EXPLORER']+'tx/'+_0x4cb932[_0x23253f(0xa1,'6cAY')],this),await this[_0x23253f(0xa7,')y80')](!![]);}else _0x22bd72=_0x370e2a;}catch(_0x341a52){if('OuoHe'==='omUmW'){if(_0x362912){const _0x3f4ac2=_0x3275bb['apply'](_0x434a44,arguments);return _0x5cb8ab=null,_0x3f4ac2;}}else{if(_0x341a52['message'][_0x23253f(0x98,'cX6@')]('504'))_0x23253f(0x8f,'co[Z')==='QpfjV'?await Helper['delay'](0x1388,this[_0x23253f(0x8c,'oYev')],_0x341a52['message'],this):this['wallet']=new _0x5838fb['Wallet'](_0x3bbf99['trim'](),this['provider']);else throw _0x341a52;}}}async['getOptimalNonce'](){const _0x207ca4=a1_0xdd48cf;try{const _0x31c84c=await this['provider']['getTransactionCount'](this['wallet']['address'],'latest'),_0xc9998e=await this['provider']['getTransactionCount'](this['wallet'][_0x207ca4(0x99,'5foB')],'pending'),_0x344aff=_0xc9998e>_0x31c84c?_0xc9998e:_0x31c84c;return _0x344aff;}catch(_0x550af7){if('BGItd'===_0x207ca4(0x86,'RdD@')){const _0x42b23e=_0x1ffd35?function(){if(_0x369af4){const _0x1d0041=_0x3abbb6['apply'](_0x6cc9c1,arguments);return _0x5a427a=null,_0x1d0041;}}:function(){};return _0x4d160e=![],_0x42b23e;}else throw _0x550af7;}}async[a1_0xdd48cf(0xa2,'RdD@')](_0x3c0f29,_0x180bff,_0x1de077,_0x4f2299=0x3,_0x337887=0xbb8){const _0x279147=a1_0xdd48cf,_0x20b169={'tBhuH':function(_0x290dc0){return _0x290dc0();}};for(let _0x4e7b93=0x0;_0x4e7b93<_0x4f2299;_0x4e7b93++){if(_0x279147(0xa8,'7^Hq')==='SGKeF')try{if('bsptn'!=='bsptn'){const _0x176143=_0x37e233(_0x279147(0x97,'5foB')+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x3eaf8c=OvLKVa['tBhuH'](_0x176143);}else{a1_0x13417c['info'](_0x279147(0xbc,'&Q@v')+_0x1de077+'\x20TX');const _0x16f1b3=await this['provider']['estimateGas']({'from':this['wallet']['address'],'to':_0x3c0f29,'value':_0x180bff,'data':_0x1de077});return _0x16f1b3;}}catch(_0x279278){await Helper['delay'](_0x337887,this['acc'],_0x279278[_0x279147(0xac,'6cAY')]+'...\x20Attempt\x20'+(_0x4e7b93+0x1)+'\x20of\x20'+_0x4f2299,this);if(_0x4e7b93===_0x4f2299-0x1)throw Error('Failed\x20to\x20estimate\x20gas\x20after\x20'+_0x4f2299+'\x20attempts.');}else{const _0x10d6a2=_0xd6d4cf?function(){if(_0x872e48){const _0x15ce45=_0x4539e2['apply'](_0x3196df,arguments);return _0x463157=null,_0x15ce45;}}:function(){};return _0x3c2329=![],_0x10d6a2;}}}}
+import { ethers } from "ethers";
+import { privateKey } from "../../accounts/accounts.js";
+import { Helper } from "../utils/helper.js";
+import logger from "../utils/logger.js";
+import { RPC } from "./network/rpc.js";
+import { Config } from "../../config.js";
+
+export default class Core {
+  constructor(acc) {
+    this.acc = acc;
+    this.provider = new ethers.JsonRpcProvider(RPC.RPCURL, RPC.CHAINID);
+  }
+
+  async connectWallet() {
+    try {
+      const data = this.acc;
+      const accIdx = privateKey.indexOf(this.acc);
+      await Helper.delay(
+        1000,
+        this.acc,
+        `Connecting to Account : ${accIdx + 1}`,
+        this
+      );
+      const type = Helper.determineType(data);
+      logger.info(`Account Type : ${type}`);
+      if (type == "Secret Phrase") {
+        /**
+         * @type {Wallet}
+         */
+        this.wallet = new ethers.Wallet.fromPhrase(data, this.provider);
+      } else if (type == "Private Key") {
+        /**
+         * @type {Wallet}
+         */
+        this.wallet = new ethers.Wallet(data.trim(), this.provider);
+      } else {
+        throw Error("Invalid account Secret Phrase or Private Key");
+      }
+      this.address = this.wallet.address;
+      await Helper.delay(
+        1000,
+        this.acc,
+        `Wallet connected ${JSON.stringify(this.wallet.address)}`,
+        this
+      );
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  async getBalance(update = false) {
+    try {
+      if (!update) {
+        await Helper.delay(
+          500,
+          this.acc,
+          `Getting Wallet Balance of ${this.wallet.address}`,
+          this
+        );
+      }
+
+      const ethBalance = ethers.formatEther(
+        await this.provider.getBalance(this.wallet.address)
+      );
+
+      this.balance = {
+        ETH: ethBalance,
+      };
+      await Helper.delay(500, this.acc, `Balance updated`, this);
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  async rawTx() {
+    try {
+      await Helper.delay(
+        500,
+        this.acc,
+        `Try To Executing RAW Transaction`,
+        this
+      );
+
+      const contractToInteract =
+        Config.network == "ARB"
+          ? Config.ARBTOOPBRIDGECONTRACT
+          : Config.OPTOARBBRIDGECONTRACT;
+
+      const amountInWei = ethers.parseEther(Config.BRIDGEAMOUNT);
+      const data =
+        Config.network == "ARB" ? Config.ARBTOOPRAWDATA : Config.OPTOARBRAWDATA;
+      const nonce = await this.getOptimalNonce();
+      const gasLimit = await this.estimateGasWithRetry(
+        contractToInteract,
+        amountInWei,
+        data,
+        3,
+        1000
+      );
+
+      const tx = {
+        to: contractToInteract,
+        value: amountInWei,
+        gasLimit,
+        gasPrice: ethers.parseUnits("0.1", "gwei"),
+        nonce: nonce,
+        data: data,
+      };
+
+      await this.executeTx(tx);
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  async executeTx(tx) {
+    try {
+      logger.info(`TX DATA ${JSON.stringify(Helper.serializeBigInt(tx))}`);
+      await Helper.delay(500, this.acc, `Executing TX...`, this);
+      const txRes = await this.wallet.sendTransaction(tx);
+
+      await Helper.delay(
+        500,
+        this.acc,
+        `Tx Executed Waiting For Block Confirmation...`,
+        this
+      );
+      const txRev = await txRes.wait();
+      logger.info(`Tx Confirmed and Finalizing: ${JSON.stringify(txRev)}`);
+      await Helper.delay(
+        5000,
+        this.acc,
+        `Tx Executed \n${RPC.EXPLORER}tx/${txRev.hash}`,
+        this
+      );
+
+      await this.getBalance(true);
+    } catch (error) {
+      if (error.message.includes("504")) {
+        await Helper.delay(5000, this.acc, error.message, this);
+      } else {
+        throw error;
+      }
+    }
+  }
+
+  async getOptimalNonce() {
+    try {
+      const latestNonce = await this.provider.getTransactionCount(
+        this.wallet.address,
+        "latest"
+      );
+      const pendingNonce = await this.provider.getTransactionCount(
+        this.wallet.address,
+        "pending"
+      );
+      const optimalNonce =
+        pendingNonce > latestNonce ? pendingNonce : latestNonce;
+      return optimalNonce;
+    } catch (error) {
+      throw error;
+    }
+  }
+
+  async estimateGasWithRetry(
+    address,
+    amount,
+    rawdata,
+    retries = 3,
+    delay = 3000
+  ) {
+    for (let attempt = 0; attempt < retries; attempt++) {
+      try {
+        logger.info(`Estimating Gas for ${rawdata} TX`);
+        const gasLimit = await this.provider.estimateGas({
+          from: this.wallet.address,
+          to: address,
+          value: amount,
+          data: rawdata,
+        });
+        // console.log(gasLimit);
+        return gasLimit;
+      } catch (err) {
+        await Helper.delay(
+          delay,
+          this.acc,
+          `${err.shortMessage}... Attempt ${attempt + 1} of ${retries}`,
+          this
+        );
+        if (attempt === retries - 1) {
+          throw Error(`Failed to estimate gas after ${retries} attempts.`);
+        }
+      }
+    }
+  }
+}
