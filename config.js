@@ -3,7 +3,7 @@ export class Config {
    *  Network OP <Swap from OP to ARB sepolia
    *  Network ARB <Swap from ARB to OP sepolia
    */
-  static network = "OP"; //OP or ARB
+  static network = "ARB"; //OP or ARB
   static BRIDGEAMOUNT = "0.1";
   static OPRPCURL = "https://opt-sepolia.g.alchemy.com/v2/irCKY81naH96CYDupXi1SM9TGRrOq-Ob";
   static ARBRPCURL = "https://base-sepolia.g.alchemy.com/v2/eYGatj2rV9xfNol1Dn07CYRAmwEcNxPB";
