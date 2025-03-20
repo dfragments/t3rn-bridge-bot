@@ -6,7 +6,7 @@ export class Config {
   static network = "OP"; //OP or ARB
   static BRIDGEAMOUNT = "0.1";
   static OPRPCURL = "https://opt-sepolia.g.alchemy.com/v2/irCKY81naH96CYDupXi1SM9TGRrOq-Ob";
-  static ARBRPCURL = "https://arb-sepolia.g.alchemy.com/v2/irCKY81naH96CYDupXi1SM9TGRrOq-Ob";
+  static ARBRPCURL = "https://base-sepolia.g.alchemy.com/v2/eYGatj2rV9xfNol1Dn07CYRAmwEcNxPB";
   static GASPRICE = "0.15";
 
   static OPTOARBBRIDGECONTRACT = "0xb6Def636914Ae60173d9007E732684a9eEDEF26E";
