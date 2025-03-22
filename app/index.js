@@ -7,19 +7,19 @@ import twist from "./src/utils/twist.js";
 
 async function operation(acc) {
   const core = new Core(acc);
-  await Helper.delay(1000, acc, `Config is set to ${Config.network}`, core);
+  await Helper.delay(500, acc, `Config is set to ${Config.network}`, core);
   try {
     await core.connectWallet();
     await core.getBalance();
 
-    if (core.balance.ETH < 1) {
-      throw Error("Minimum Eth Balance Is 1 ETH");
+    if (core.balance.ETH < 0.1) {
+      throw Error("Minimum Eth Balance Is 0.1 ETH");
     }
 
-    while (core.balance.ETH > 1) {
+    while (core.balance.ETH > 0.1) {
       await core.rawTx();
 
-      const delay = Helper.random(10000, 60000);
+      const delay = Helper.random(2000, 3000);
       await Helper.delay(
         delay,
         acc,
@@ -41,16 +41,16 @@ async function operation(acc) {
   } catch (error) {
     if (error.message) {
       await Helper.delay(
-        10000,
+        3000,
         acc,
-        `Error : ${error.message}, Retry again after 10 Second`,
+        `Error : ${error.message}, Retry again after 3 Second`,
         core
       );
     } else {
       await Helper.delay(
-        10000,
+        3000,
         acc,
-        `Error :${JSON.stringify(error)}, Retry again after 10 Second`,
+        `Error :${JSON.stringify(error)}, Retry again after 3 Second`,
         core
       );
     }
